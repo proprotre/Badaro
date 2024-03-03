@@ -1,0 +1,23 @@
+.background {
+    background-color: dimgray;
+}
+.divs{
+    box-shadow: 10px 10px 20px black;
+    color: white;
+    background-color:darkgray;
+    border-radius: 30px;
+}
+.footer{
+    border: 0;
+    height: 2px;
+    background-color: white;
+    width: 90%;
+}
+.card-alterado{
+    box-shadow: 10px 10px 20px black;
+    background-color:darkgray;
+    border-radius: 30px;
+}
+.card{    
+    box-shadow: 10px 10px 20px black;
+}
