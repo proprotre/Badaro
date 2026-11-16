@@ -1,6 +1,6 @@
 # Portfólio — Gabriel Badaró
 
-Portfólio profissional desenvolvido com HTML5 e CSS3 para apresentar minha trajetória, tecnologias e projetos selecionados.
+Portfólio profissional desenvolvido com HTML5 e CSS3 para apresentar minha trajetória, tecnologias e projetos selecionados. Minhas principais linguagens de desenvolvimento são Delphi, C#, Python e PHP, com experiência avançada nas quatro.
 
 ## Acesso
 
